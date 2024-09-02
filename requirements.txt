@@ -1,2 +1,5 @@
 streamlit
 openai
+numpy
+pandas
+plotly
